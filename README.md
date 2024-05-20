@@ -6,9 +6,9 @@ python
 
 pytorch for GP surrogate model
 
-this project provid a sample two-dims example
+this project provides a sample two-dims example in file  example_tow_dims_koh
 
-# referernce:
+# reference:
 
 Perspectives on the integration between first-principles and data-driven modeling
 
