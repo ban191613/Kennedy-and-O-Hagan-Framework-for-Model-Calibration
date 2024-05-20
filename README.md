@@ -8,12 +8,12 @@ pytorch for GP surrogate model
 
 this project provid a sample two-dims emaple
 
-# referernce parpers:
+# referernce:
 
 Perspectives on the integration between first-principles and data-driven modeling
 
-book Gaussian Processes for Machine Learning (MIT)
+(book) Gaussian Processes for Machine Learning 
 
 Calibration, Model Discrepancy, and Identifiability
 
-book Surrogates Gaussian Process Modeling, Design, and Optimization for the Applied Sciences   Robert B. Gramacy
+(book) Surrogates Gaussian Process Modeling, Design, and Optimization for the Applied Sciences   
