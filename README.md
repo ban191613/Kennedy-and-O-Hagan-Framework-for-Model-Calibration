@@ -6,7 +6,7 @@ python
 
 pytorch for GP surrogate model
 
-this project provides a sample two-dims example in file  example_tow_dims_koh
+this project provides a sample two-dims example in file  example_tow_dims_koh.ipynb
 
 # reference:
 
