@@ -6,7 +6,7 @@ python
 
 pytorch for GP surrogate model
 
-this project provid a sample two-dims emaple
+this project provid a sample two-dims example
 
 # referernce:
 
